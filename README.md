@@ -1,6 +1,9 @@
 # Ionic 2 Workout App
 
-Simple workout tracking app based on Ionic2 powered by mLab \(cloud database service featuring automated provisioning and scaling of MongoDB databases\)
+Simple workout tracking app based on Ionic2 powered by mLab \(cloud database service featuring automated provisioning and scaling of MongoDB databases\). Additional features will be added soon. 
+
+## Live Demo 
+Link : http://workoutappv1.s3-website-us-west-2.amazonaws.com/
 
 ## Using this project
 
